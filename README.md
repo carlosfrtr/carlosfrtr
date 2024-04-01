@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carlos Torres,  I'm a Specialist Software at Pagbank, and I've been working in tech since 2013. 
+I'm Carlos Torres,  I'm a Software Engineer and I've been working in tech since 2013. 
 
 
 [![Linkedin: carlosfrtr](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosfrtr/)](https://www.linkedin.com/in/carlosfrtr/)
